@@ -1,2 +1,2 @@
-bucket="terraform-dev-mihtun-state-bucket"
+bucket="terraform-dev-state-bucket-balajitechnologies"
 key="eks/terraform.tfstate"
