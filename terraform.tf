@@ -7,7 +7,7 @@ terraform {
   }
   backend "s3" {
     region = "ap-south-1"
-    dynamodb_table = "terraform-state-table"
+    dynamodb_table = "Terraform_Remote_state"
   }
 }
 
